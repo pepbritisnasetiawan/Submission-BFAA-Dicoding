@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_purple">#7B1FA2</color>
+    <color name="purple">#CB69C1</color>
+    <color name="light_purple">#E1BEE7</color>
+    <color name="deep_purple">#1B0D30</color>
+    <color name="dark_purple_custom">#2C0942</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorSubtitle">#757575</color>
+</resources>

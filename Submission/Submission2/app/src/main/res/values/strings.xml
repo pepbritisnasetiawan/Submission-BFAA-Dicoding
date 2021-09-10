@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Github User</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="splash_image">Splash Image</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="share">Share</string>
+    <string name="text_label">Failure</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="image_profile" translatable="false">Image Profile</string>
+</resources>
