@@ -1,2 +1,2 @@
-# pepbritisnasetiawan-pepbritisnasetiawan-pepbritisnasetiawan-Submission-BFAA-Dicoding
+# Submission-BFAA-Dicoding
 Submission kelas Belajar Fundamental Aplikasi Android, dengan project membuat apikasi GitHub user yang memanfaatkan GitHub API.
